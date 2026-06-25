@@ -3,14 +3,13 @@
 ## About Me
 **<Your Title / Role / Passion e.g., Software Engineer | Open Source Contributor>**
 
-I am a passionate developer focused on building <mention your core area, e.g., scalable web applications, backend services>. I am dedicated to writing clean code and turning complex problems into intuitive solutions.
+I am a third-year Computer Science student at the Ho Chi Minh University of Technology (HCMUT). My core interests lie in Data Analysis, Software Engineering, and Full-Stack Development, and I am always eager to build and explore new ideas across these fields.
 
 ## Skills
 
-* **Languages:** <e.g., JavaScript, Python, TypeScript>
-* **Frameworks & Libraries:** <e.g., React.js, Next.js, Node.js>
-* **Databases:** <e.g., PostgreSQL, MongoDB>
-* **Tools & Technologies:** <e.g., Git, Docker, AWS>
+* **Languages:** Python, Java, C++
+* **Data & Analytics:** Pandas, Numpy, Matplotlib, SQL
+* **Tools & Technologies:** Git
 
 ## Current Focus
 
