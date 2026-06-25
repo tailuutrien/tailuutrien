@@ -1,7 +1,6 @@
 # Hi, I am LuuTai
 
 ## About Me
-**<Your Title / Role / Passion e.g., Software Engineer | Open Source Contributor>**
 
 I am a third-year Computer Science student at the Ho Chi Minh University of Technology (HCMUT). My core interests lie in Data Analysis, Software Engineering, and Full-Stack Development, and I am always eager to build and explore new ideas across these fields.
 
@@ -13,12 +12,10 @@ I am a third-year Computer Science student at the Ho Chi Minh University of Tech
 
 ## Current Focus
 
-* Learning: <e.g., advanced cloud architecture, system design>
-* Open to collaboration on: <e.g., full-stack projects, developer tools>
-* You can ask me about: <e.g., React, backend development>
+* **Learning:** Deepening my knowledge of advanced algorithms, system design, and modern cloud deployment workflows.
+* **Projects:** Developing an end-to-end data analysis dashboard and building scalable full-stack web applications to bridge theoretical concepts with real-world solutions.
 
 ## Connect with Me
 
 * **Email:** tai.luutrien@gmail.com
 * **LinkedIn:** [LuuTai](https://www.linkedin.com/in/luu-tai-a57674414/)
-* **Website/Portfolio:** [your-website.com](https://your-website.com)
