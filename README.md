@@ -12,7 +12,7 @@ I am a third-year Computer Science student at the Ho Chi Minh University of Tech
 
 ## Current Focus
 
-* **Learning:** Deepening my knowledge of advanced algorithms, system design, and modern cloud deployment workflows.
+* **Learning:** Deepening my knowledge of advanced algorithms, machine learning, and modern cloud deployment workflows.
 * **Projects:** Developing an end-to-end data analysis dashboard and building scalable full-stack web applications to bridge theoretical concepts with real-world solutions.
 
 ## Connect with Me
